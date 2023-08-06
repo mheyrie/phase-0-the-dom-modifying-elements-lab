@@ -8,7 +8,7 @@ newHeader.id = "victory";
 const myName = "Mary";
 //newHeader.textContent = `${myName} is the champion`;
 newHeader.textContent = "Mary is the champion";
-document.body.appendChild(newHeader);
+
 
 
 
